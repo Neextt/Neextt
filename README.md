@@ -28,15 +28,5 @@ Programs that I use to develop my projects.
 
 <br/>
 
-<details>
-  <summary>💬 Contact</summary>
-   </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>biielkts#6666</string>
-  
-   </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@Gabrielkts</string> </br>
-</details> 
-  
-<br/>
 
 [![Brxno stats](https://github-readme-stats.vercel.app/api?username=brxnokts&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/biielkts/)
