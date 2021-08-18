@@ -21,6 +21,3 @@ Programs that I use to develop my projects.
   ![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-grey?style=for-the-badge&logo=sublime-text&logoColor=yellow)
 
 <br/>
-
-
-[![Brxno stats](https://github-readme-stats.vercel.app/api?username=brxnokts&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/biielkts/)
