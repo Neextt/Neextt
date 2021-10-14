@@ -2,7 +2,7 @@
 
 ### Hey! 👋
 
-My name is Gabriel, I'm 16 years old, I'm a Java developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java.
+My name is Neext, I'm 16 years old, I'm a Java developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java.
 
 
 
