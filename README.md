@@ -1,23 +1,43 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+### Olá devs 👋
 
-### Hey! 👋
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-My name is Neext, I'm 16 years old, I'm a Java developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java.
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```php
+function neextDev(){
+  $name = "Neext";
+  $area = "Full-stack";
+ 
+  $primarySkillset = "VS Code, GIT, MYSQL";
+  $languages = array("HTML", "CSS", "PHP", "JavaScript");
+
+}
+```
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
+## **GitHub Estatísticas**
 
-### 📋 Tecnologies:
-Technologies that I know or that I want to learn.
-
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nailsondev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🚀 Tools
-Programs that I use to develop my projects.
+[website]: https://nextstore.com/
+[twitter]: https://twitter.com/nexteed
+[youtube]: https://www.youtube.com/user/neextdev/
+<br>
 
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij-idea&logoColor=blue)
-  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-inactive?style=for-the-badge&logo=github&logoColor=black)
-  ![Sublime Text 3](https://img.shields.io/badge/Sublime_Text_3-grey?style=for-the-badge&logo=sublime-text&logoColor=yellow)
+#### Rede Sociais!
 
-<br/>
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|**
+📺 [youtube][youtube] **|** 
+
+![Snake animation](https://github.com/NailsonDev/NailsonDev/blob/output/github-contribution-grid-snake.svg)
