@@ -5,9 +5,8 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```php
-function neextDev(){
-  $name = "Neext";
-  $area = "Full-stack";
+function harply(){
+  $name = "Gabriel";
  
   $primarySkillset = "VS Code, GIT, MYSQL";
   $languages = array("HTML", "CSS", "PHP", "JavaScript");
